@@ -1,13 +1,13 @@
-# Hello, I'm Pedro Isaque 👋
+# Olá, eu sou o Pedro Isaque 👋
 
-I'm a student of Systems Analysis and Development (ADS) and I'm learning web development.
-I'm currently studying: HTML, CSS, JavaScript, Node.js.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou aprendendo desenvolvimento web.
+Atualmente estudo: HTML, CSS, JavaScript, Node.js, React.
 
-Main links
+Principais links
 - GitHub: https://github.com/Isaqueodev
 - Email: kristianbugaboo@gmail.com
 
-Skills
+Habilidades
 - Frontend: HTML, CSS, JavaScript
 
-Want to see my resume (CV) or discuss opportunities? Send me an email: kristianbugaboo@gmail.com
+Quer ver meu currículo ou conversar sobre oportunidades? Me envie um e-mail: kristianbugaboo@gmail.com
