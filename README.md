@@ -9,6 +9,7 @@ Principais links
   
 Portfólio
 - https://isaqueodev.github.io/portfolio/
+  
 Habilidades
 - Frontend: HTML, CSS, JavaScript
 
