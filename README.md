@@ -6,7 +6,9 @@ Atualmente estudo: HTML, CSS, JavaScript, Node.js, React.
 Principais links
 - GitHub: https://github.com/Isaqueodev
 - Email: kristianbugaboo@gmail.com
-
+  
+Portfólio
+- https://isaqueodev.github.io/portfolio/
 Habilidades
 - Frontend: HTML, CSS, JavaScript
 
